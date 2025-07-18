@@ -1,10 +1,10 @@
-# Bangalore House Prediction Project
+# Bangaluru House Prediction Project
 
-This project aims to predict house prices in Bangalore based on features such as BHK (Bedrooms, Hall, Kitchen), bathrooms, area, and location.
+This project aims to predict house prices in Bangaluru based on features such as BHK (Bedrooms, Hall, Kitchen), bathrooms, area, and location.
 
 ## Introduction
 
-Bangalore is a bustling city with a diverse real estate market. This project utilizes machine learning techniques to predict house prices in Bangalore, helping buyers and sellers make informed decisions.
+Bangaluru is a bustling city with a diverse real estate market. This project utilizes machine learning techniques to predict house prices in Bangalore, helping buyers and sellers make informed decisions.
 
 ## Dataset
 
